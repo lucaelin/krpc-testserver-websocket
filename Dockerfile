@@ -1,3 +1,3 @@
 FROM krpc/testserver
 
-CMD ['--type=websocket']
+CMD ['--type=websockets']
